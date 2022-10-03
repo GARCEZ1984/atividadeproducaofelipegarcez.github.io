@@ -1,0 +1,60 @@
+﻿img
+{width: 350px;
+}
+
+.container 
+{display: flex;
+align-items: center;
+}
+
+.titulo{
+	
+    background: #FEFEFE;
+    width: 940px;
+    display: flex;
+    margin: auto;
+    font-size: 55px;
+    text-align: center;
+    font-family: Arial;
+    color: #B51800
+}
+
+.titulo2 {    
+    background: #FEFEFE;
+    margin: 80;
+    display: flex;
+    font-size: 28px;
+    text-align: center;
+    font-family: Arial
+ }
+h2{ 
+    background: #FEFEFE;
+    margin: 000;
+    display: flex;
+    font-size: 31px;
+    text-align: center;
+    font-family: Arial
+}
+
+h3{ 
+    background: #FEFEFE;
+    margin: 15;
+    display: flex;
+    font-size: 20px;
+    text-align: center;
+    font-family: Arial
+}
+
+h4{ 
+    
+    font-size: 20px;
+    text-align: center;
+    font-family: Arial
+}
+
+
+h5{ 
+    font-size: 15px;
+    text-align: justify;
+    font-family: Arial
+}
